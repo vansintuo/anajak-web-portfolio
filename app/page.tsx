@@ -82,7 +82,7 @@ const solutions = [
       "Shred and process rubber granules",
       "Blend material into road surfaces",
     ],
-  },
+  }
 ];
 
 export default function Page() {
