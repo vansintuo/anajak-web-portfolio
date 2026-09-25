@@ -168,7 +168,6 @@ export default function Page() {
             Engineering sustainable infrastructure through advanced ANAJAK
             technology.
           </span>
-          <div className="side-coords">11°33&apos; N &nbsp; 104°55&apos; E</div>
         </div>
       </aside>
 
