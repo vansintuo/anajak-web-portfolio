@@ -14,7 +14,7 @@ const products = [
   {
     number: "01",
     name: "Asphalt Paver",
-    desc: "Precision paving for consistent, high-performance rubber road surfaces.",
+    desc: "Precision paving for consistent, high-performance ANAJAK surfaces.",
     image: "/asphalt-paver.png",
   },
   {
@@ -136,11 +136,7 @@ export default function Page() {
               <i />
               <i />
             </span>
-            <span>
-              RUBBER
-              <br />
-              <b>ROAD</b>
-            </span>
+            <span>ANAJAK</span>
           </a>
           <button
             className="mobile-close"
@@ -179,7 +175,7 @@ export default function Page() {
             BETTER ROADS
           </p>
           <span>
-            Engineering sustainable infrastructure through advanced rubber road
+            Engineering sustainable infrastructure through advanced ANAJAK
             technology.
           </span>
           <div className="side-coords">11°33&apos; N &nbsp; 104°55&apos; E</div>
@@ -199,7 +195,7 @@ export default function Page() {
           <div className="hero-overlay" />
           <div className="hero-copy">
             <p className="eyebrow light">
-              RUBBER ROAD TECHNOLOGY <span>— 01 / 04</span>
+              ANAJAK TECHNOLOGY <span>— 01 / 04</span>
             </p>
             <h1>
               Engineering
@@ -209,8 +205,8 @@ export default function Page() {
               of tomorrow.
             </h1>
             <p className="hero-lede">
-              Advanced rubber road technology and infrastructure solutions
-              designed for stronger, more durable and sustainable roads.
+              Advanced ANAJAK technology and infrastructure solutions designed
+              for stronger, more durable and sustainable roads.
             </p>
             <div className="hero-actions">
               <a href="#solutions" className="button button-light">
@@ -469,7 +465,7 @@ export default function Page() {
                   <option value="" disabled>
                     Select project type
                   </option>
-                  <option>Rubber road technology</option>
+                  <option>ANAJAK technology</option>
                   <option>Road construction</option>
                   <option>Machinery</option>
                   <option>Other</option>
@@ -512,8 +508,8 @@ export default function Page() {
             </a>
           </div>
           <div className="footer-bottom">
-            <span>RUBBER ROAD / ENGINEERING THE FUTURE</span>
-            <span>© 2024 Rubber Road Technology</span>
+            <span>ANAJAK / ENGINEERING THE FUTURE</span>
+            <span>© 2024 ANAJAK Technology</span>
             <span>Phnom Penh, Cambodia</span>
           </div>
         </footer>
