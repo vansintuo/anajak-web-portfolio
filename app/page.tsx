@@ -136,7 +136,11 @@ export default function Page() {
               <i />
               <i />
             </span>
-            <span>ANAJAK</span>
+            <span>
+              ANAJAK
+              <br />
+              <b>ROAD</b>
+            </span>
           </a>
           <button
             className="mobile-close"
@@ -161,7 +165,6 @@ export default function Page() {
                 setMenuOpen(false);
               }}
             >
-              <span>{num}</span>
               {label}
               <ArrowUpRight />
             </a>
