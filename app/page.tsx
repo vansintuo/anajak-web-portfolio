@@ -83,17 +83,6 @@ const solutions = [
       "Blend material into road surfaces",
     ],
   },
-  {
-    number: "05",
-    title: "Asphalt Production",
-    text: "Consistent mixing plants produce the right rubber-modified asphalt recipe for every project.",
-    image: "/asphalt-mixing-plant.png",
-    details: [
-      "Select the project mix design",
-      "Heat and blend recycled rubber",
-      "Deliver material at the correct temperature",
-    ],
-  },
 ];
 
 export default function Page() {
