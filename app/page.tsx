@@ -127,8 +127,6 @@ export default function Page() {
             </span>
             <span>
               ANAJAK
-              <br />
-              <b>ROAD</b>
             </span>
           </a>
           <button
